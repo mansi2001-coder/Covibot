@@ -1,2 +1,2 @@
 # Covibot
-I created this Covid 19 Chatbot to answer all the frequently answered questions regarding cvid 19 using azure bot service and Qna maker
+I created a chat bot using azure bot services and Qna maker to answer all the frequently asked questions about covid.
